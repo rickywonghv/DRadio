@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DRadio</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="drawer_menu">
+        <item>Apple</item>
+        <item>Book</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Eagle</item>
+        <item>Food</item>
+        <item>God</item>
+        <item>House</item>
+        <item>Iron</item>
+        <item>Jingle</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

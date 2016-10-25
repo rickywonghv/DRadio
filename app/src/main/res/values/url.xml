@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programme">
+        <item>digi</item>
+        <item>mystery</item>
+        <item>mystery2</item>
+        <item>randgad</item>
+        <item>hkpug</item>
+        <item>warrior</item>
+        <item>mikeleefile</item>
+    </string-array>
+</resources>
